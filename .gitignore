@@ -39,6 +39,9 @@ local.properties
 # sbteclipse plugin
 .target
 
+.TestC_7.java
+.TestC_6-java
+
 # Tern plugin
 .tern-project
 
@@ -84,4 +87,7 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 .flattened-pom.xml
 
-# End of https://www.gitignore.io/api/maven,eclipse
+# End of https://www.gitignore.io/api/maven,eclipse/.blackbox/pubring.gpg~
+/.blackbox/pubring.kbx~
+/.blackbox/secring.gpg
+/src/test/java/automationTestcases/TestC_6.java
