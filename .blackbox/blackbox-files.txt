@@ -1,1 +1,2 @@
 src/test/java/automationTestcases/TestC_6.java
+src/test/java/automationTestcases/TestC_7.java

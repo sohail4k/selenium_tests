@@ -91,3 +91,4 @@ buildNumber.properties
 /.blackbox/pubring.kbx~
 /.blackbox/secring.gpg
 /src/test/java/automationTestcases/TestC_6.java
+/src/test/java/automationTestcases/TestC_7.java
