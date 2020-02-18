@@ -1,0 +1,9 @@
+2020-02-11 15:19:31,373 INFO  [Logg] Firefox web driver initiated 
+2020-02-11 15:19:31,383 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-11 15:19:34,034 INFO  [Logg] Web application launched to the test url 
+2020-02-11 15:19:34,264 INFO  [Logg] Mobile link  element found 
+2020-02-11 15:19:38,938 INFO  [Logg] Title Confirmed equal to Mobile 
+2020-02-11 15:19:38,968 INFO  [Logg] Moble list element found 
+2020-02-11 15:19:39,037 INFO  [Logg] Sort select element found 
+2020-02-11 15:19:39,906 INFO  [Logg] Items sorted by Name 
+2020-02-11 15:19:41,916 INFO  [Logg] Moble list element found 

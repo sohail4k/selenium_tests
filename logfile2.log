@@ -1,0 +1,545 @@
+2020-02-11 15:41:53,698 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-11 15:41:53,698 INFO  [Logg] X 
+2020-02-11 15:41:53,698 INFO  [Logg] X 
+2020-02-11 15:41:53,698 INFO  [Logg] X 
+2020-02-11 15:41:53,698 INFO  [Logg] X 
+2020-02-11 15:41:53,698 INFO  [Logg] Initiating the browser  
+2020-02-11 15:41:58,778 INFO  [Logg] Firefox web driver initiated 
+2020-02-11 15:41:58,788 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-11 15:42:00,850 INFO  [Logg] Web application launched to the test url 
+2020-02-11 15:42:01,086 INFO  [Logg] Mobile link  element found 
+2020-02-11 15:42:05,039 INFO  [Logg] Title Confirmed equal to Mobile 
+2020-02-11 15:42:06,743 INFO  [Logg] Xperia link Clicked 
+2020-02-11 15:42:10,338 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-11 15:42:10,338 INFO  [Logg] X 
+2020-02-11 15:42:10,338 INFO  [Logg] X 
+2020-02-11 15:42:10,338 INFO  [Logg] X 
+2020-02-11 15:42:10,338 INFO  [Logg] X 
+2020-02-12 01:07:37,576 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 01:07:37,577 INFO  [Logg] X 
+2020-02-12 01:07:37,577 INFO  [Logg] X 
+2020-02-12 01:07:37,577 INFO  [Logg] X 
+2020-02-12 01:07:37,577 INFO  [Logg] X 
+2020-02-12 01:07:37,577 INFO  [Logg] Initiating the browser  
+2020-02-12 01:07:45,475 INFO  [Logg] Firefox web driver initiated 
+2020-02-12 01:07:45,490 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-12 01:07:48,951 INFO  [Logg] Web application launched to the test url 
+2020-02-12 01:07:49,036 INFO  [Logg] Mobile link  element found 
+2020-02-12 01:07:52,479 INFO  [Logg] Title Confirmed equal to Mobile 
+2020-02-12 01:08:04,594 INFO  [Logg] Xperia link Clicked 
+2020-02-12 01:09:00,893 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 01:09:00,894 INFO  [Logg] X 
+2020-02-12 01:09:00,894 INFO  [Logg] X 
+2020-02-12 01:09:00,894 INFO  [Logg] X 
+2020-02-12 01:09:00,894 INFO  [Logg] X 
+2020-02-12 01:09:00,894 INFO  [Logg] Initiating the browser  
+2020-02-12 01:09:05,680 INFO  [Logg] Firefox web driver initiated 
+2020-02-12 01:09:05,696 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-12 01:09:09,085 INFO  [Logg] Web application launched to the test url 
+2020-02-12 01:09:09,168 INFO  [Logg] Mobile link  element found 
+2020-02-12 01:09:12,284 INFO  [Logg] Title Confirmed equal to Mobile 
+2020-02-12 01:09:15,714 INFO  [Logg] Xperia link Clicked 
+2020-02-12 01:09:19,239 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 01:09:19,239 INFO  [Logg] X 
+2020-02-12 01:09:19,239 INFO  [Logg] X 
+2020-02-12 01:09:19,239 INFO  [Logg] X 
+2020-02-12 01:09:19,239 INFO  [Logg] X 
+2020-02-12 01:13:38,856 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 01:13:38,857 INFO  [Logg] X 
+2020-02-12 01:13:38,857 INFO  [Logg] X 
+2020-02-12 01:13:38,858 INFO  [Logg] X 
+2020-02-12 01:13:38,858 INFO  [Logg] X 
+2020-02-12 01:13:38,858 INFO  [Logg] Initiating the browser  
+2020-02-12 01:13:43,515 INFO  [Logg] Firefox web driver initiated 
+2020-02-12 01:13:43,524 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-12 01:13:47,002 INFO  [Logg] Web application launched to the test url 
+2020-02-12 01:13:47,063 INFO  [Logg] Mobile link  element found 
+2020-02-12 01:13:50,215 INFO  [Logg] Title Confirmed equal to Mobile 
+2020-02-12 01:13:52,474 INFO  [Logg] Xperia link Clicked 
+2020-02-12 01:13:55,973 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 01:13:55,973 INFO  [Logg] X 
+2020-02-12 01:13:55,973 INFO  [Logg] X 
+2020-02-12 01:13:55,973 INFO  [Logg] X 
+2020-02-12 01:13:55,973 INFO  [Logg] X 
+2020-02-12 01:19:27,303 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 01:19:27,305 INFO  [Logg] X 
+2020-02-12 01:19:27,306 INFO  [Logg] X 
+2020-02-12 01:19:27,306 INFO  [Logg] X 
+2020-02-12 01:19:27,306 INFO  [Logg] X 
+2020-02-12 01:19:27,306 INFO  [Logg] Initiating the browser  
+2020-02-12 01:19:35,768 INFO  [Logg] Firefox web driver initiated 
+2020-02-12 01:19:35,795 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-12 01:19:39,968 INFO  [Logg] Web application launched to the test url 
+2020-02-12 01:19:40,276 INFO  [Logg] Mobile link  element found 
+2020-02-12 01:19:44,326 INFO  [Logg] Title Confirmed equal to Mobile 
+2020-02-12 01:19:47,336 INFO  [Logg] Xperia link Clicked 
+2020-02-12 01:19:52,195 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 01:19:52,195 INFO  [Logg] X 
+2020-02-12 01:19:52,196 INFO  [Logg] X 
+2020-02-12 01:19:52,196 INFO  [Logg] X 
+2020-02-12 01:19:52,196 INFO  [Logg] X 
+2020-02-12 01:23:36,802 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 01:23:36,804 INFO  [Logg] X 
+2020-02-12 01:23:36,804 INFO  [Logg] X 
+2020-02-12 01:23:36,804 INFO  [Logg] X 
+2020-02-12 01:23:36,804 INFO  [Logg] X 
+2020-02-12 01:23:36,804 INFO  [Logg] Initiating the browser  
+2020-02-12 01:23:45,851 INFO  [Logg] Firefox web driver initiated 
+2020-02-12 01:23:45,868 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-12 01:24:54,510 INFO  [Logg] Web application launched to the test url 
+2020-02-12 01:24:54,581 INFO  [Logg] Mobile link  element found 
+2020-02-12 01:24:59,228 INFO  [Logg] Title Confirmed equal to Mobile 
+2020-02-12 01:25:02,972 INFO  [Logg] Xperia link Clicked 
+2020-02-12 01:25:07,510 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 01:25:07,510 INFO  [Logg] X 
+2020-02-12 01:25:07,510 INFO  [Logg] X 
+2020-02-12 01:25:07,510 INFO  [Logg] X 
+2020-02-12 01:25:07,511 INFO  [Logg] X 
+2020-02-12 01:25:26,648 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 01:25:26,648 INFO  [Logg] X 
+2020-02-12 01:25:26,648 INFO  [Logg] X 
+2020-02-12 01:25:26,648 INFO  [Logg] X 
+2020-02-12 01:25:26,648 INFO  [Logg] X 
+2020-02-12 01:25:26,648 INFO  [Logg] Initiating the browser  
+2020-02-12 01:25:33,722 INFO  [Logg] Firefox web driver initiated 
+2020-02-12 01:25:33,738 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-12 01:25:38,054 INFO  [Logg] Web application launched to the test url 
+2020-02-12 01:25:38,297 INFO  [Logg] Mobile link  element found 
+2020-02-12 01:25:42,228 INFO  [Logg] Title Confirmed equal to Mobile 
+2020-02-12 01:25:45,365 INFO  [Logg] Xperia link Clicked 
+2020-02-12 01:25:50,575 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 01:25:50,576 INFO  [Logg] X 
+2020-02-12 01:25:50,576 INFO  [Logg] X 
+2020-02-12 01:25:50,576 INFO  [Logg] X 
+2020-02-12 01:25:50,576 INFO  [Logg] X 
+2020-02-12 01:28:14,268 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 01:28:14,269 INFO  [Logg] X 
+2020-02-12 01:28:14,269 INFO  [Logg] X 
+2020-02-12 01:28:14,269 INFO  [Logg] X 
+2020-02-12 01:28:14,269 INFO  [Logg] X 
+2020-02-12 01:28:14,269 INFO  [Logg] Initiating the browser  
+2020-02-12 01:28:18,959 INFO  [Logg] Firefox web driver initiated 
+2020-02-12 01:28:18,970 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-12 01:28:23,333 INFO  [Logg] Web application launched to the test url 
+2020-02-12 01:28:23,409 INFO  [Logg] Mobile link  element found 
+2020-02-12 01:28:27,171 INFO  [Logg] Title Confirmed equal to Mobile 
+2020-02-12 01:28:29,738 INFO  [Logg] Xperia link Clicked 
+2020-02-12 01:28:33,236 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 01:28:33,236 INFO  [Logg] X 
+2020-02-12 01:28:33,236 INFO  [Logg] X 
+2020-02-12 01:28:33,236 INFO  [Logg] X 
+2020-02-12 01:28:33,236 INFO  [Logg] X 
+2020-02-12 15:20:07,438 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 15:20:07,439 INFO  [Logg] X 
+2020-02-12 15:20:07,439 INFO  [Logg] X 
+2020-02-12 15:20:07,439 INFO  [Logg] X 
+2020-02-12 15:20:07,440 INFO  [Logg] X 
+2020-02-12 15:20:07,440 INFO  [Logg] Initiating the browser  
+2020-02-12 15:20:13,838 INFO  [Logg] Firefox web driver initiated 
+2020-02-12 15:20:13,852 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-12 15:20:17,938 INFO  [Logg] Web application launched to the test url 
+2020-02-12 15:20:18,058 INFO  [Logg] Mobile link  element found 
+2020-02-12 15:20:21,592 INFO  [Logg] Title Confirmed equal to Mobile 
+2020-02-12 15:20:23,615 INFO  [Logg] Xperia link Clicked 
+2020-02-12 15:20:27,477 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 15:20:27,477 INFO  [Logg] X 
+2020-02-12 15:20:27,477 INFO  [Logg] X 
+2020-02-12 15:20:27,478 INFO  [Logg] X 
+2020-02-12 15:20:27,478 INFO  [Logg] X 
+2020-02-12 15:32:22,397 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 15:32:22,397 INFO  [Logg] X 
+2020-02-12 15:32:22,397 INFO  [Logg] X 
+2020-02-12 15:32:22,397 INFO  [Logg] X 
+2020-02-12 15:32:22,397 INFO  [Logg] X 
+2020-02-12 15:32:22,397 INFO  [Logg] Initiating the browser  
+2020-02-12 15:32:27,470 INFO  [Logg] Firefox web driver initiated 
+2020-02-12 15:32:27,496 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-12 15:32:31,833 INFO  [Logg] Web application launched to the test url 
+2020-02-12 15:32:31,916 INFO  [Logg] Mobile link  element found 
+2020-02-12 15:32:35,752 INFO  [Logg] Title Confirmed equal to Mobile 
+2020-02-12 15:32:39,187 INFO  [Logg] Xperia link Clicked 
+2020-02-12 15:32:42,875 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 15:32:42,876 INFO  [Logg] X 
+2020-02-12 15:32:42,876 INFO  [Logg] X 
+2020-02-12 15:32:42,876 INFO  [Logg] X 
+2020-02-12 15:32:42,876 INFO  [Logg] X 
+2020-02-12 15:36:24,679 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 15:36:24,679 INFO  [Logg] X 
+2020-02-12 15:36:24,679 INFO  [Logg] X 
+2020-02-12 15:36:24,679 INFO  [Logg] X 
+2020-02-12 15:36:24,679 INFO  [Logg] X 
+2020-02-12 15:36:24,680 INFO  [Logg] Initiating the browser  
+2020-02-12 15:36:29,692 INFO  [Logg] Firefox web driver initiated 
+2020-02-12 15:36:29,702 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-12 15:36:32,312 INFO  [Logg] Web application launched to the test url 
+2020-02-12 15:36:32,511 INFO  [Logg] Mobile link  element found 
+2020-02-12 15:36:36,540 INFO  [Logg] Title Confirmed equal to Mobile 
+2020-02-12 15:36:39,579 INFO  [Logg] Xperia link Clicked 
+2020-02-12 15:36:43,286 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 15:36:43,286 INFO  [Logg] X 
+2020-02-12 15:36:43,286 INFO  [Logg] X 
+2020-02-12 15:36:43,286 INFO  [Logg] X 
+2020-02-12 15:36:43,286 INFO  [Logg] X 
+2020-02-12 15:39:12,242 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 15:39:12,243 INFO  [Logg] X 
+2020-02-12 15:39:12,243 INFO  [Logg] X 
+2020-02-12 15:39:12,243 INFO  [Logg] X 
+2020-02-12 15:39:12,243 INFO  [Logg] X 
+2020-02-12 15:39:12,243 INFO  [Logg] Initiating the browser  
+2020-02-12 15:39:16,777 INFO  [Logg] Firefox web driver initiated 
+2020-02-12 15:39:16,790 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-12 15:39:22,067 INFO  [Logg] Web application launched to the test url 
+2020-02-12 15:39:22,149 INFO  [Logg] Mobile link  element found 
+2020-02-12 15:39:25,676 INFO  [Logg] Title Confirmed equal to Mobile 
+2020-02-12 15:39:28,029 INFO  [Logg] Xperia link Clicked 
+2020-02-12 15:39:31,723 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 15:39:31,723 INFO  [Logg] X 
+2020-02-12 15:39:31,723 INFO  [Logg] X 
+2020-02-12 15:39:31,723 INFO  [Logg] X 
+2020-02-12 15:39:31,723 INFO  [Logg] X 
+2020-02-12 15:39:55,397 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 15:39:55,398 INFO  [Logg] X 
+2020-02-12 15:39:55,398 INFO  [Logg] X 
+2020-02-12 15:39:55,398 INFO  [Logg] X 
+2020-02-12 15:39:55,398 INFO  [Logg] X 
+2020-02-12 15:39:55,398 INFO  [Logg] Initiating the browser  
+2020-02-12 15:40:00,460 INFO  [Logg] Firefox web driver initiated 
+2020-02-12 15:40:00,474 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-12 15:40:04,560 INFO  [Logg] Web application launched to the test url 
+2020-02-12 15:40:04,822 INFO  [Logg] Mobile link  element found 
+2020-02-12 15:40:08,119 INFO  [Logg] Title Confirmed equal to Mobile 
+2020-02-12 15:40:11,271 INFO  [Logg] Xperia link Clicked 
+2020-02-12 15:40:15,147 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 15:40:15,147 INFO  [Logg] X 
+2020-02-12 15:40:15,147 INFO  [Logg] X 
+2020-02-12 15:40:15,147 INFO  [Logg] X 
+2020-02-12 15:40:15,147 INFO  [Logg] X 
+2020-02-12 15:48:07,850 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 15:48:07,850 INFO  [Logg] X 
+2020-02-12 15:48:07,850 INFO  [Logg] X 
+2020-02-12 15:48:07,850 INFO  [Logg] X 
+2020-02-12 15:48:07,850 INFO  [Logg] X 
+2020-02-12 15:48:07,850 INFO  [Logg] Initiating the browser  
+2020-02-12 15:48:12,965 INFO  [Logg] Firefox web driver initiated 
+2020-02-12 15:48:12,979 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-12 15:48:15,545 INFO  [Logg] Web application launched to the test url 
+2020-02-12 15:48:15,744 INFO  [Logg] Mobile link  element found 
+2020-02-12 15:48:19,105 INFO  [Logg] Title Confirmed equal to Mobile 
+2020-02-12 15:48:21,799 INFO  [Logg] Xperia link Clicked 
+2020-02-12 15:48:25,721 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 15:48:25,721 INFO  [Logg] X 
+2020-02-12 15:48:25,721 INFO  [Logg] X 
+2020-02-12 15:48:25,721 INFO  [Logg] X 
+2020-02-12 15:48:25,721 INFO  [Logg] X 
+2020-02-12 15:51:46,328 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 15:51:46,328 INFO  [Logg] X 
+2020-02-12 15:51:46,328 INFO  [Logg] X 
+2020-02-12 15:51:46,328 INFO  [Logg] X 
+2020-02-12 15:51:46,328 INFO  [Logg] X 
+2020-02-12 15:51:46,328 INFO  [Logg] Initiating the browser  
+2020-02-12 15:51:51,329 INFO  [Logg] Firefox web driver initiated 
+2020-02-12 15:51:51,337 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-12 15:51:54,046 INFO  [Logg] Web application launched to the test url 
+2020-02-12 15:51:54,257 INFO  [Logg] Mobile link  element found 
+2020-02-12 15:51:58,917 INFO  [Logg] Title Confirmed equal to Mobile 
+2020-02-12 15:52:01,963 INFO  [Logg] Xperia link Clicked 
+2020-02-12 15:52:05,657 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 15:52:05,658 INFO  [Logg] X 
+2020-02-12 15:52:05,658 INFO  [Logg] X 
+2020-02-12 15:52:05,658 INFO  [Logg] X 
+2020-02-12 15:52:05,658 INFO  [Logg] X 
+2020-02-12 16:01:10,034 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 16:01:10,035 INFO  [Logg] X 
+2020-02-12 16:01:10,035 INFO  [Logg] X 
+2020-02-12 16:01:10,035 INFO  [Logg] X 
+2020-02-12 16:01:10,035 INFO  [Logg] X 
+2020-02-12 16:01:10,035 INFO  [Logg] Initiating the browser  
+2020-02-12 16:01:15,054 INFO  [Logg] Firefox web driver initiated 
+2020-02-12 16:01:15,076 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-12 16:01:18,693 INFO  [Logg] Web application launched to the test url 
+2020-02-12 16:01:18,966 INFO  [Logg] Mobile link  element found 
+2020-02-12 16:01:23,135 INFO  [Logg] Title Confirmed equal to Mobile 
+2020-02-12 16:01:25,653 INFO  [Logg] Xperia link Clicked 
+2020-02-12 16:01:29,688 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 16:01:29,688 INFO  [Logg] X 
+2020-02-12 16:01:29,688 INFO  [Logg] X 
+2020-02-12 16:01:29,688 INFO  [Logg] X 
+2020-02-12 16:01:29,688 INFO  [Logg] X 
+2020-02-12 23:20:22,393 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 23:20:22,394 INFO  [Logg] X 
+2020-02-12 23:20:22,394 INFO  [Logg] X 
+2020-02-12 23:20:22,394 INFO  [Logg] X 
+2020-02-12 23:20:22,394 INFO  [Logg] X 
+2020-02-12 23:20:22,394 INFO  [Logg] Initiating the browser  
+2020-02-12 23:20:30,252 INFO  [Logg] Firefox web driver initiated 
+2020-02-12 23:20:30,269 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-12 23:20:33,197 INFO  [Logg] Web application launched to the test url 
+2020-02-12 23:20:33,432 INFO  [Logg] Mobile link  element found 
+2020-02-12 23:20:37,881 INFO  [Logg] Title Confirmed equal to Mobile 
+2020-02-12 23:20:39,954 INFO  [Logg] Xperia link Clicked 
+2020-02-12 23:20:44,086 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-12 23:20:44,086 INFO  [Logg] X 
+2020-02-12 23:20:44,086 INFO  [Logg] X 
+2020-02-12 23:20:44,086 INFO  [Logg] X 
+2020-02-12 23:20:44,086 INFO  [Logg] X 
+2020-02-15 01:48:43,437 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-15 01:48:43,439 INFO  [Logg] X 
+2020-02-15 01:48:43,439 INFO  [Logg] X 
+2020-02-15 01:48:43,439 INFO  [Logg] X 
+2020-02-15 01:48:43,439 INFO  [Logg] X 
+2020-02-15 01:48:43,439 INFO  [Logg] Initiating the browser  
+2020-02-15 01:48:50,776 INFO  [Logg] Firefox web driver initiated 
+2020-02-15 01:48:50,803 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-15 01:48:56,364 INFO  [Logg] Web application launched to the test url 
+2020-02-15 13:43:11,762 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-15 13:43:11,763 INFO  [Logg] X 
+2020-02-15 13:43:11,763 INFO  [Logg] X 
+2020-02-15 13:43:11,763 INFO  [Logg] X 
+2020-02-15 13:43:11,763 INFO  [Logg] X 
+2020-02-15 13:43:11,764 INFO  [Logg] Initiating the browser  
+2020-02-15 13:43:17,541 INFO  [Logg] Firefox web driver initiated 
+2020-02-15 13:43:17,558 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-15 13:43:19,819 INFO  [Logg] Web application launched to the test url 
+2020-02-15 13:51:55,844 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-15 13:51:55,845 INFO  [Logg] X 
+2020-02-15 13:51:55,845 INFO  [Logg] X 
+2020-02-15 13:51:55,845 INFO  [Logg] X 
+2020-02-15 13:51:55,845 INFO  [Logg] X 
+2020-02-15 13:51:55,845 INFO  [Logg] Initiating the browser  
+2020-02-15 13:52:00,672 INFO  [Logg] Firefox web driver initiated 
+2020-02-15 13:52:00,685 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-15 13:52:04,956 INFO  [Logg] Web application launched to the test url 
+2020-02-15 13:57:33,286 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-15 13:57:33,287 INFO  [Logg] X 
+2020-02-15 13:57:33,287 INFO  [Logg] X 
+2020-02-15 13:57:33,287 INFO  [Logg] X 
+2020-02-15 13:57:33,287 INFO  [Logg] X 
+2020-02-15 13:57:33,287 INFO  [Logg] Initiating the browser  
+2020-02-15 13:57:38,637 INFO  [Logg] Firefox web driver initiated 
+2020-02-15 13:57:38,648 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-15 13:57:42,064 INFO  [Logg] Web application launched to the test url 
+2020-02-15 14:00:59,369 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-15 14:00:59,369 INFO  [Logg] X 
+2020-02-15 14:00:59,369 INFO  [Logg] X 
+2020-02-15 14:00:59,369 INFO  [Logg] X 
+2020-02-15 14:00:59,369 INFO  [Logg] X 
+2020-02-15 14:00:59,370 INFO  [Logg] Initiating the browser  
+2020-02-15 14:01:04,215 INFO  [Logg] Firefox web driver initiated 
+2020-02-15 14:01:04,225 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-15 14:01:32,055 INFO  [Logg] Web application launched to the test url 
+2020-02-15 14:03:08,841 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-15 14:03:08,842 INFO  [Logg] X 
+2020-02-15 14:03:08,842 INFO  [Logg] X 
+2020-02-15 14:03:08,842 INFO  [Logg] X 
+2020-02-15 14:03:08,842 INFO  [Logg] X 
+2020-02-15 14:03:08,842 INFO  [Logg] Initiating the browser  
+2020-02-15 14:03:14,172 INFO  [Logg] Firefox web driver initiated 
+2020-02-15 14:03:14,187 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-15 14:03:16,646 INFO  [Logg] Web application launched to the test url 
+2020-02-15 14:08:22,543 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-15 14:08:22,543 INFO  [Logg] X 
+2020-02-15 14:08:22,544 INFO  [Logg] X 
+2020-02-15 14:08:22,544 INFO  [Logg] X 
+2020-02-15 14:08:22,544 INFO  [Logg] X 
+2020-02-15 14:08:22,544 INFO  [Logg] Initiating the browser  
+2020-02-15 14:08:27,919 INFO  [Logg] Firefox web driver initiated 
+2020-02-15 14:08:27,934 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-15 14:08:30,662 INFO  [Logg] Web application launched to the test url 
+2020-02-15 14:13:48,042 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-15 14:13:48,044 INFO  [Logg] X 
+2020-02-15 14:13:48,044 INFO  [Logg] X 
+2020-02-15 14:13:48,044 INFO  [Logg] X 
+2020-02-15 14:13:48,044 INFO  [Logg] X 
+2020-02-15 14:13:48,044 INFO  [Logg] Initiating the browser  
+2020-02-15 14:13:54,309 INFO  [Logg] Firefox web driver initiated 
+2020-02-15 14:13:54,338 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-15 14:13:57,367 INFO  [Logg] Web application launched to the test url 
+2020-02-15 14:16:07,780 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-15 14:16:07,781 INFO  [Logg] X 
+2020-02-15 14:16:07,782 INFO  [Logg] X 
+2020-02-15 14:16:07,782 INFO  [Logg] X 
+2020-02-15 14:16:07,782 INFO  [Logg] X 
+2020-02-15 14:16:07,782 INFO  [Logg] Initiating the browser  
+2020-02-15 14:16:13,238 INFO  [Logg] Firefox web driver initiated 
+2020-02-15 14:16:13,250 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-15 14:16:15,970 INFO  [Logg] Web application launched to the test url 
+2020-02-15 14:17:16,821 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-15 14:17:16,822 INFO  [Logg] X 
+2020-02-15 14:17:16,822 INFO  [Logg] X 
+2020-02-15 14:17:16,822 INFO  [Logg] X 
+2020-02-15 14:17:16,822 INFO  [Logg] X 
+2020-02-15 14:17:16,822 INFO  [Logg] Initiating the browser  
+2020-02-15 14:17:22,298 INFO  [Logg] Firefox web driver initiated 
+2020-02-15 14:17:22,308 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-15 14:17:26,904 INFO  [Logg] Web application launched to the test url 
+2020-02-15 14:37:17,930 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-15 14:37:17,931 INFO  [Logg] X 
+2020-02-15 14:37:17,931 INFO  [Logg] X 
+2020-02-15 14:37:17,931 INFO  [Logg] X 
+2020-02-15 14:37:17,931 INFO  [Logg] X 
+2020-02-15 14:37:17,931 INFO  [Logg] Initiating the browser  
+2020-02-15 14:37:23,425 INFO  [Logg] Firefox web driver initiated 
+2020-02-15 14:37:23,440 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-15 14:37:26,958 INFO  [Logg] Web application launched to the test url 
+2020-02-15 14:38:57,938 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-15 14:38:57,939 INFO  [Logg] X 
+2020-02-15 14:38:57,939 INFO  [Logg] X 
+2020-02-15 14:38:57,939 INFO  [Logg] X 
+2020-02-15 14:38:57,939 INFO  [Logg] X 
+2020-02-15 14:38:57,939 INFO  [Logg] Initiating the browser  
+2020-02-15 14:39:03,397 INFO  [Logg] Firefox web driver initiated 
+2020-02-15 14:39:03,416 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-15 14:39:06,680 INFO  [Logg] Web application launched to the test url 
+2020-02-15 14:45:33,524 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-15 14:45:33,525 INFO  [Logg] X 
+2020-02-15 14:45:33,525 INFO  [Logg] X 
+2020-02-15 14:45:33,525 INFO  [Logg] X 
+2020-02-15 14:45:33,525 INFO  [Logg] X 
+2020-02-15 14:45:33,525 INFO  [Logg] Initiating the browser  
+2020-02-15 14:45:38,994 INFO  [Logg] Firefox web driver initiated 
+2020-02-15 14:45:39,007 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-15 14:45:42,122 INFO  [Logg] Web application launched to the test url 
+2020-02-15 14:47:01,186 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-15 14:47:01,187 INFO  [Logg] X 
+2020-02-15 14:47:01,187 INFO  [Logg] X 
+2020-02-15 14:47:01,187 INFO  [Logg] X 
+2020-02-15 14:47:01,187 INFO  [Logg] X 
+2020-02-15 14:47:01,187 INFO  [Logg] Initiating the browser  
+2020-02-15 14:47:06,691 INFO  [Logg] Firefox web driver initiated 
+2020-02-15 14:47:06,708 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-15 14:47:10,933 INFO  [Logg] Web application launched to the test url 
+2020-02-15 14:48:34,207 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-15 14:48:34,208 INFO  [Logg] X 
+2020-02-15 14:48:34,208 INFO  [Logg] X 
+2020-02-15 14:48:34,208 INFO  [Logg] X 
+2020-02-15 14:48:34,208 INFO  [Logg] X 
+2020-02-15 14:48:34,208 INFO  [Logg] Initiating the browser  
+2020-02-15 14:48:39,696 INFO  [Logg] Firefox web driver initiated 
+2020-02-15 14:48:39,713 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-15 14:48:43,791 INFO  [Logg] Web application launched to the test url 
+2020-02-15 14:52:07,075 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-15 14:52:07,076 INFO  [Logg] X 
+2020-02-15 14:52:07,076 INFO  [Logg] X 
+2020-02-15 14:52:07,076 INFO  [Logg] X 
+2020-02-15 14:52:07,076 INFO  [Logg] X 
+2020-02-15 14:52:07,076 INFO  [Logg] Initiating the browser  
+2020-02-15 14:52:12,712 INFO  [Logg] Firefox web driver initiated 
+2020-02-15 14:52:12,725 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-15 14:52:16,690 INFO  [Logg] Web application launched to the test url 
+2020-02-15 20:50:38,539 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-15 20:50:38,540 INFO  [Logg] X 
+2020-02-15 20:50:38,540 INFO  [Logg] X 
+2020-02-15 20:50:38,541 INFO  [Logg] X 
+2020-02-15 20:50:38,541 INFO  [Logg] X 
+2020-02-15 20:50:38,541 INFO  [Logg] Initiating the browser  
+2020-02-15 20:50:44,076 INFO  [Logg] Firefox web driver initiated 
+2020-02-15 20:50:44,087 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-15 20:50:48,953 INFO  [Logg] Web application launched to the test url 
+2020-02-16 00:20:58,389 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-16 00:20:58,390 INFO  [Logg] X 
+2020-02-16 00:20:58,390 INFO  [Logg] X 
+2020-02-16 00:20:58,390 INFO  [Logg] X 
+2020-02-16 00:20:58,390 INFO  [Logg] X 
+2020-02-16 00:20:58,390 INFO  [Logg] Initiating the browser  
+2020-02-16 00:21:06,059 INFO  [Logg] Firefox web driver initiated 
+2020-02-16 00:21:06,075 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-16 00:21:08,997 INFO  [Logg] Web application launched to the test url 
+2020-02-16 00:34:05,093 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-16 00:34:05,094 INFO  [Logg] X 
+2020-02-16 00:34:05,094 INFO  [Logg] X 
+2020-02-16 00:34:05,094 INFO  [Logg] X 
+2020-02-16 00:34:05,094 INFO  [Logg] X 
+2020-02-16 00:34:05,094 INFO  [Logg] Initiating the browser  
+2020-02-16 00:34:10,483 INFO  [Logg] Firefox web driver initiated 
+2020-02-16 00:34:10,497 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-16 00:34:14,011 INFO  [Logg] Web application launched to the test url 
+2020-02-16 01:01:32,184 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-16 01:01:32,185 INFO  [Logg] X 
+2020-02-16 01:01:32,185 INFO  [Logg] X 
+2020-02-16 01:01:32,185 INFO  [Logg] X 
+2020-02-16 01:01:32,185 INFO  [Logg] X 
+2020-02-16 01:01:32,185 INFO  [Logg] Initiating the browser  
+2020-02-16 01:01:37,547 INFO  [Logg] Firefox web driver initiated 
+2020-02-16 01:01:37,558 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-16 01:01:40,352 INFO  [Logg] Web application launched to the test url 
+2020-02-16 01:04:41,419 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-16 01:04:41,420 INFO  [Logg] X 
+2020-02-16 01:04:41,420 INFO  [Logg] X 
+2020-02-16 01:04:41,420 INFO  [Logg] X 
+2020-02-16 01:04:41,421 INFO  [Logg] X 
+2020-02-16 01:04:41,421 INFO  [Logg] Initiating the browser  
+2020-02-16 01:04:46,759 INFO  [Logg] Firefox web driver initiated 
+2020-02-16 01:04:46,768 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-16 01:04:49,909 INFO  [Logg] Web application launched to the test url 
+2020-02-16 01:24:38,242 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-16 01:24:38,242 INFO  [Logg] X 
+2020-02-16 01:24:38,242 INFO  [Logg] X 
+2020-02-16 01:24:38,243 INFO  [Logg] X 
+2020-02-16 01:24:38,243 INFO  [Logg] X 
+2020-02-16 01:24:38,243 INFO  [Logg] Initiating the browser  
+2020-02-16 01:24:43,630 INFO  [Logg] Firefox web driver initiated 
+2020-02-16 01:24:43,646 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-16 01:24:47,433 INFO  [Logg] Web application launched to the test url 
+2020-02-16 01:35:12,995 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-16 01:35:12,995 INFO  [Logg] X 
+2020-02-16 01:35:12,995 INFO  [Logg] X 
+2020-02-16 01:35:12,995 INFO  [Logg] X 
+2020-02-16 01:35:12,996 INFO  [Logg] X 
+2020-02-16 01:35:12,996 INFO  [Logg] Initiating the browser  
+2020-02-16 01:35:18,378 INFO  [Logg] Firefox web driver initiated 
+2020-02-16 01:35:18,389 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-16 01:35:22,177 INFO  [Logg] Web application launched to the test url 
+2020-02-16 01:43:37,997 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-16 01:43:37,998 INFO  [Logg] X 
+2020-02-16 01:43:37,998 INFO  [Logg] X 
+2020-02-16 01:43:37,998 INFO  [Logg] X 
+2020-02-16 01:43:37,998 INFO  [Logg] X 
+2020-02-16 01:43:37,998 INFO  [Logg] Initiating the browser  
+2020-02-16 01:43:43,402 INFO  [Logg] Firefox web driver initiated 
+2020-02-16 01:43:43,414 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-16 01:43:47,645 INFO  [Logg] Web application launched to the test url 
+2020-02-16 01:45:12,823 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-16 01:45:12,824 INFO  [Logg] X 
+2020-02-16 01:45:12,824 INFO  [Logg] X 
+2020-02-16 01:45:12,824 INFO  [Logg] X 
+2020-02-16 01:45:12,824 INFO  [Logg] X 
+2020-02-16 01:45:12,825 INFO  [Logg] Initiating the browser  
+2020-02-16 01:45:18,184 INFO  [Logg] Firefox web driver initiated 
+2020-02-16 01:45:18,195 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-16 01:45:20,904 INFO  [Logg] Web application launched to the test url 
+2020-02-16 01:53:07,551 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-16 01:53:07,552 INFO  [Logg] X 
+2020-02-16 01:53:07,552 INFO  [Logg] X 
+2020-02-16 01:53:07,552 INFO  [Logg] X 
+2020-02-16 01:53:07,552 INFO  [Logg] X 
+2020-02-16 01:53:07,552 INFO  [Logg] Initiating the browser  
+2020-02-16 01:53:12,882 INFO  [Logg] Firefox web driver initiated 
+2020-02-16 01:53:12,895 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-16 01:53:15,687 INFO  [Logg] Web application launched to the test url 
+2020-02-16 01:54:36,194 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-16 01:54:36,195 INFO  [Logg] X 
+2020-02-16 01:54:36,195 INFO  [Logg] X 
+2020-02-16 01:54:36,195 INFO  [Logg] X 
+2020-02-16 01:54:36,195 INFO  [Logg] X 
+2020-02-16 01:54:36,195 INFO  [Logg] Initiating the browser  
+2020-02-16 01:54:41,569 INFO  [Logg] Firefox web driver initiated 
+2020-02-16 01:54:41,584 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-16 01:54:45,730 INFO  [Logg] Web application launched to the test url 
+2020-02-16 01:56:50,717 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-16 01:56:50,717 INFO  [Logg] X 
+2020-02-16 01:56:50,718 INFO  [Logg] X 
+2020-02-16 01:56:50,718 INFO  [Logg] X 
+2020-02-16 01:56:50,718 INFO  [Logg] X 
+2020-02-16 01:56:50,718 INFO  [Logg] Initiating the browser  
+2020-02-16 01:56:56,115 INFO  [Logg] Firefox web driver initiated 
+2020-02-16 01:56:56,130 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-16 01:56:59,683 INFO  [Logg] Web application launched to the test url 
+2020-02-16 12:10:18,896 INFO  [Logg] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-02-16 12:10:18,897 INFO  [Logg] X 
+2020-02-16 12:10:18,897 INFO  [Logg] X 
+2020-02-16 12:10:18,898 INFO  [Logg] X 
+2020-02-16 12:10:18,898 INFO  [Logg] X 
+2020-02-16 12:10:18,898 INFO  [Logg] Initiating the browser  
+2020-02-16 12:10:25,553 INFO  [Logg] Firefox web driver initiated 
+2020-02-16 12:10:25,567 INFO  [Logg] Web Driver implicit wait set to 10 sec 
+2020-02-16 12:10:29,613 INFO  [Logg] Web application launched to the test url 
