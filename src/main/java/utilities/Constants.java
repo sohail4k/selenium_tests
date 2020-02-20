@@ -4,8 +4,8 @@ package utilities;
 public class Constants {
 	
 	public static final String url= "http://live.demoguru99.com/";
-	//public  static final String username="mngr240981";
-	//public  static final String password="kirkat99!";
+	//public  static final String username="";
+	//public  static final String password="";
 	public static final String file_location="C:\\Users\\sohai\\eclipse-workspace\\Selenium Project\\";
 	public static final String file_name="test_data2.xlsx";
 	public static final String sheet_name="Sheet1";

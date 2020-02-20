@@ -55,40 +55,40 @@ public class CommonMenusPage {
 	}
 	
 	
-	public static void  clickAccount() {
+	public  void  clickAccount() {
 		link_account.click();
 		
 	}
 	
-public static void clickCart() {
+public  void clickCart() {
 		link_cart.click();
 	}
 
-public static  void clickSubmenuMyAccount() {
+public   void clickSubmenuMyAccount() {
 	submenu_my_account.click();
 }
 
-public static  void clickSubmenuMyWishlist() {
+public   void clickSubmenuMyWishlist() {
 	submenu_my_wishlist.click();
 }
 
 
-public static  void clickSubmenuMyCart() {
+public   void clickSubmenuMyCart() {
 	submenu_my_cart.click();
 }
-public static  void clickSubmenuCheckout() {
+public   void clickSubmenuCheckout() {
 	submenu_checkout.click();
 }
-public static  void clickSubmenuLogin() {
+public   void clickSubmenuLogin() {
 	submenu_login.click();
 	
 }
 
-public static  void clickSubmenuLogout() {
+public   void clickSubmenuLogout() {
 	submenu_logout.click();
 }
 
-public static void  clickCartCheckout() {
+public  void  clickCartCheckout() {
 	submenu_cart_checkout.click();
 	
 }
