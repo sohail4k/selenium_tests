@@ -1,11 +1,15 @@
 package utilities;
 
+
+import java.time.Duration;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
 
 import utilities.Constants;
 
@@ -16,6 +20,7 @@ import utilities.Constants;
 public class CommonUtilities {
 	
 	private static WebDriver driver =null;
+	
 	
 public static WebDriver OpenBrowser(String  browser ) throws Exception  {
 		
@@ -44,7 +49,10 @@ public static WebDriver OpenBrowser(String  browser ) throws Exception  {
 		break;	
 		}
 		
-    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+    //driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		
+//    WebDriverWait wait =new WebDriverWait(driver, 10);
+
 	Logg.info("Web Driver implicit wait set to 10 sec");
     driver.manage().window().maximize();
 
